@@ -1,0 +1,1 @@
+class Iphone14PlusOneModel {}
